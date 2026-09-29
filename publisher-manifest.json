@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9d482a90d1fb95e4ba98a843",
+  "owner": "bbkjuewxsr",
+  "repo": "page-e8ca16424d33ea970f337ceb",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e8ca16424d33ea970f337ceb",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8bde531ed79b07644d960b7447062aa2e512d82e69ce31420da18a3bb9997a96",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬提供机场订阅、VPN梯子网络加速与客户端下载说明，帮助你对比套餐、按步骤导入订阅并完成连接。",
+          "AI_DESCRIPTION": "快柠檬提供机场订阅、VPN梯子网络加速与客户端下载说明，帮助你对比套餐、按步骤导入订阅并完成连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e8f4f8;font-size:16px;line-height:1.65}a{color:#2ee6d6;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}header{background:#05101c;border-bottom:1px solid #16324a;position:relative}header .bar{max-width:1080px;margin:0 auto;padding:12px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px}header .logo{font-weight:700;letter-spacing:.04em;color:#7af0e6}nav{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:14px}nav a{color:#c5e8ee}main{max-width:1080px;margin:0 auto;padding:20px 16px 48px}h1{font-size:30px;line-height:1.25;margin:8px 0 10px;color:#f4fffe}h2{font-size:22px;margin:0 0 12px;color:#b7fff6}h3{font-size:17px;margin:0 0 8px;color:#e7fffc}p{margin:0 0 12px}ul{margin:0;padding-left:18px}.hero{display:grid;gap:14px;margin-bottom:22px;padding:18px;background:#0c2133;border:1px solid #18425c;border-radius:12px}.kicker{color:#2ee6d6;font-size:13px;letter-spacing:.08em;text-transform:uppercase}.lead{color:#c9e7ef;margin:0}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.chip{border:1px solid #1c5c6e;background:#082433;color:#9beee6;border-radius:999px;padding:4px 10px;font-size:12px}.section{margin:22px 0}.note{font-size:14px;color:#9ec4cf;margin-bottom:12px}.scene-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.card{background:#0c2133;border:1px solid #18425c;border-radius:10px;padding:14px}.card p{margin:0;color:#c5dde4;font-size:14px}.steps{display:grid;gap:8px;padding:0;margin:0;list-style:none;counter-reset:step}.steps li{background:#0c2133;border:1px solid #18425c;border-radius:10px;padding:12px 12px 12px 48px;position:relative}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:26px;height:26px;border-radius:50%;background:#123d4a;color:#2ee6d6;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700}.compare-points{display:grid;grid-template-columns:1fr;gap:8px;margin-bottom:14px}.compare-points article{display:grid;gap:4px;background:#082c3a;border-left:3px solid #2ee6d6;padding:10px 12px;border-radius:0 8px 8px 0}.plans-box,.clients-box{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}.plans-box > *,.clients-box > *{background:#0c2133;border:1px solid #1a4d63;border-radius:10px;padding:14px;min-width:0}.plans-box h3,.clients-box h3{color:#7af0e6}.plans-box ul,.clients-box ul{padding-left:18px;color:#d5eef3}.plans-box p,.clients-box p{color:#c9e7ef}.faq details{background:#0c2133;border:1px solid #18425c;border-radius:10px;padding:10px 14px;margin:0 0 8px}faq summary,details summary{cursor:pointer;font-weight:650;color:#e9fffb}details p{margin:8px 0 4px;color:#c5dde4;font-size:15px}footer{border-top:1px solid #16324a;background:#05101c;color:#8fb3bd;padding:20px 16px;font-size:13px}footer .inner{max-width:1080px;margin:0 auto}footer a{color:#8fe8de}@media(max-width:640px){h1{font-size:26px}.scene-grid{grid-template-columns:1fr}nav{width:100%}}</style><header><div class=\"bar\"><span class=\"logo\">快柠檬</span><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\" id=\"intro\"><div class=\"kicker\">官网 · 机场订阅 · VPN 加速器</div><h1>快柠檬</h1><p class=\"lead\">快柠檬把机场订阅、VPN 梯子网络加速和客户端下载说明收在同一页，方便你先对照套餐，再按步骤完成导入与连接。流量、设备与线路能力以套餐卡片为准，本页不额外编造节点或测速承诺。</p><div class=\"chips\"><span class=\"chip\">套餐对比优先</span><span class=\"chip\">订阅导入指引</span><span class=\"chip\">多端客户端入口</span><span class=\"chip\">深蓝青主题</span></div></section><section class=\"section\" id=\"plans\"><h2>套餐对比</h2><p class=\"note\">先看同时在线设备与每月流量是否覆盖日常使用，再决定是否需要更完整的流媒体或游戏向线路。个人轻度访问看基础版方向，多设备与进阶线路看旗舰版，多人协作看团队版。价格与额度只出现在下方卡片中。</p><div class=\"compare-points\"><article><h3>怎么快速选定</h3><p>把「谁在用、几台设备、主要看视频还是办公」三件事对齐后，再进入卡片对比，避免只看名称下单。</p></article><article><h3>对比时抓住的字段</h3><p>设备台数、月流量、流媒体说明、是否强调游戏线路与支持响应。不要把不同方案的额度混记到一起。</p></article></div><div class=\"plans-box\">{{PLANS_HTML}}</div></section><section class=\"section\" id=\"scenes\"><h2>使用场景</h2><p class=\"note\">以下场景用于帮助你判断套餐档位，实际可访问内容仍取决于所选方案与当前网络环境。</p><div class=\"scene-grid\"><article class=\"card\"><h3>跨境办公协作</h3><p>处理海外文档、会议与邮箱时，用订阅把常用设备接入同一套配置，减少反复切换。</p></article><article class=\"card\"><h3>公开资料检索</h3><p>查阅公开论文、技术文档与站点时，保持客户端常驻，按页面提示更新订阅即可。</p></article><article class=\"card\"><h3>流媒体访问</h3><p>若你的重点是影音平台，请直接对照套餐里的流媒体说明，选择覆盖更完整的一档。</p></article><article class=\"card\"><h3>游戏与实时应用</h3><p>对延迟更敏感时，优先阅读套餐中关于游戏加速或专线的描述，再决定是否升级。</p></article></div></section><section class=\"section\" id=\"guide\"><h2>操作说明</h2><p class=\"note\">完成订阅后，核心动作只有三步：下载客户端、导入订阅、连接节点。遇到失败先检查链接是否完整、应用是否选对系统。</p><ol class=\"steps\"><li>在套餐对比区确认档位，完成订阅并保存机场订阅链接。</li><li>打开客户端下载区，按手机或电脑系统选择对应应用。</li><li>在客户端中粘贴或扫描订阅，等待节点列表刷新。</li><li>选择一条线路连接，用浏览器访问需要加速的站点做连通确认。</li><li>之后换设备时重复导入同一订阅，不必重新记忆节点名称。</li></ol></section><section class=\"section\" id=\"clients\"><h2>客户端下载</h2><p class=\"note\">请使用本页提供的客户端入口。不同系统的导入路径略有差异，安装完成后回到订阅链接即可。不要从不明来源获取安装包。</p><div class=\"clients-box\">{{CLIENTS_HTML}}</div></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><details><summary>快柠檬是什么？</summary><p>快柠檬是围绕机场订阅与 VPN 梯子网络加速整理的官网说明页，集中提供套餐对比、使用场景、操作步骤和客户端下载入口，让你少在多个页面之间来回查找。</p></details><details><summary>第一次使用要准备什么？</summary><p>准备一个可保存文本的备忘位置存放订阅链接，再准备要上网的手机或电脑。先完成套餐订阅，再下载客户端并把链接导入，最后点连接即可。</p></details><details><summary>套餐应该如何对比？</summary><p>先匹配设备数量和月流量是否够用，再看流媒体与游戏相关说明是否覆盖你的重点场景。团队共用请阅读团队版介绍。所有数值以本页套餐卡片为准，正文不再重复抄写。</p></details><details><summary>订阅链接导入失败怎么办？</summary><p>检查链接是否被截断、客户端是否对应你的系统，以及订阅是否仍在有效期内。仍无法刷新节点时，回到账户侧重新复制订阅后再试。</p></details><details><summary>可以在多台设备同时使用吗？</summary><p>可以，但同时在线台数受套餐限制。若经常笔记本、手机、平板一起连，应在对比区选择设备额度更高的方案，避免互相挤占。</p></details><details><summary>客户端官方下载在哪里？</summary><p>官方下载入口集中在本页「客户端下载」区块。请按系统选择，安装后仅导入你自己的订阅，不要把链接发给不相关的人。</p></details><details><summary>流量不够或需要企业协作怎么办？</summary><p>流量或设备不足时，对照更高一档方案即可。多人团队或需要客户经理式支持时，查看团队版说明，并以账户内实际生效信息为准。</p></details></section></main><footer><div class=\"inner\">快柠檬官网 · 机场订阅与 VPN 网络加速说明 · <a href=\"#plans\">套餐对比</a> · <a href=\"#clients\">客户端下载</a> · <a href=\"#intro\">回到顶部</a></div></footer>",
+          "hash": "b38fe4140185f9168e861638e1c0c089820add48a4bb15e25df583754b395191",
+          "seo": {
+            "title": "快柠檬官网｜机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "快柠檬,快柠檬官网,快柠檬机场,快柠檬VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载",
+            "description": "快柠檬提供机场订阅、VPN梯子网络加速与客户端下载说明，帮助你对比套餐、按步骤导入订阅并完成连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "penrock.cn",
+    "host": "home.penrock.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "penrock.cn",
+      "url": "https://penrock.cn/",
+      "label": "GLaDOS",
+      "apex": "penrock.cn",
+      "kind": null,
+      "identity": "whnvcvtrg/page-80d02285017897c00f173e15"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "980d3308447b9948b32edabcc255513a7520e2c328f806b09d456523c0eb384f",
+    "sitemap.xml": "dc6a6c50398e1cd02465c389ace9755b69d00c6e486771798d9b8b25c5517f8a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bfc30e0b446e97f55ac4d39cbc146483879a86d811d6fe58a34e737f48cbad6a",
+    "robots.txt": "435fd97db8ef855a9c90826d07e0388ce5e9b378a7bb14cb4a9846931a9bb44a",
+    "32d8837bebcf0fb064f762687991c2d5.txt": "be7c63c8a1e1fffa5c2f620367bf74e5869af47d3753a3b51e4babdd59a909d6"
+  },
+  "revision": "b007f1a15e7211539c624e45c1fbd9bbd99bb84832629ec99896dce751da3de8"
+}
